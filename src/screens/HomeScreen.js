@@ -2,8 +2,8 @@ import React from "react";
 import { Text, StyleSheet, View, Button, TouchableOpacity } from "react-native";
 
 const HomeScreen = ({ navigation }) => {
-  //console.log(props.navigation);
-  //  return  <Text style={styles.text}>First File Execute! </Text>;
+
+  //return <Text style={styles.text}>First File Execute! </Text>;
   return (<View>
     <Text style={styles.text}>Hello</Text>
     <Button
